@@ -1,0 +1,8 @@
+{
+  "name": "Vaccine_Passport_Angular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "81830b64"
+}

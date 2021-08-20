@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Vaccine_Passport_Angular",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
